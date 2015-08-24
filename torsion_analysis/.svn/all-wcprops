@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/matlab_common/!svn/ver/8/torsion_analysis
+END
+TorsionGUI.fig
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/matlab_common/!svn/ver/8/torsion_analysis/TorsionGUI.fig
+END
+script_buildTorsionDataGroups.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/matlab_common/!svn/ver/8/torsion_analysis/script_buildTorsionDataGroups.m
+END
+script_visualizeEchoPoints.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/matlab_common/!svn/ver/8/torsion_analysis/script_visualizeEchoPoints.m
+END
+TorsionRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/matlab_common/!svn/ver/8/torsion_analysis/TorsionRecord.m
+END
+script_recalcTorsions.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/matlab_common/!svn/ver/8/torsion_analysis/script_recalcTorsions.m
+END
+script_makeFakeTorsionData.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/matlab_common/!svn/ver/8/torsion_analysis/script_makeFakeTorsionData.m
+END
+TorsionGUI.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/matlab_common/!svn/ver/8/torsion_analysis/TorsionGUI.m
+END
